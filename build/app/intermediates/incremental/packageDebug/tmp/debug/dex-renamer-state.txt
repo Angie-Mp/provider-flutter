@@ -1,0 +1,4 @@
+#Fri Dec 02 11:15:49 PET 2022
+base.0=/Users/mac/Documents/Certus/unidad3/provider-flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
